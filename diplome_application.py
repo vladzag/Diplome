@@ -4,7 +4,6 @@ import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-
 # Функция для анализа качества данных
 def analyze_data_quality(dataframe):
     report = {}
